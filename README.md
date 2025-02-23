@@ -12,6 +12,11 @@ We initially explored GRPO based on the Reasoning model synthetic CoT Graph Extr
     └── Qwen_GRPO_Graph_Extraction.ipynb # training process
 ```
 
+> update: Seems the training notebook doesnt render properly in github, check from colab instead:
+
+| Data Gen                                                     | Training                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wey-gu/gpro-graph-extraction/blob/main/ground_truth_gen/r1_distill_reasoning_graph_extraction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wey-gu/gpro-graph-extraction/blob/main/train/Qwen_GRPO_Graph_Extraction.ipynb) |
 
 
 ### Credits
