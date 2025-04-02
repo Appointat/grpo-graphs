@@ -26,3 +26,5 @@ We initially explored GRPO based on the Reasoning model synthetic CoT Graph Extr
   - https://arxiv.org/html/2402.03300
 - Qwen's Great [Base model](https://huggingface.co/Qwen/Qwen2.5-3B)
 - [Will's](https://x.com/willccbb), [this](https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing)(cannot find the author), and Unsloth's [Daniel Han Chen](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen2.5_(3B)-GRPO.ipynb#scrollTo=SDKIhhvN6lAF) work
+
+<img width="1801" alt="training" src="https://github.com/user-attachments/assets/6f789a4b-5555-417c-bd41-20665d83cbce" />
